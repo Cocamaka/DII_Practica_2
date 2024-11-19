@@ -1,3 +1,6 @@
+#####En última instancia, este código no se escribe en la Memoria PDF. Un derivado de otra idea.#####
+
+
 El objetivo principal de este código es implementar un sistema interactivo descentralizado dentro y fuera de la cadena para obtener datos meteorológicos en tiempo real.
 aprobar:
 Solicitud de usuario → Procesamiento de contrato de consumo de datos → Reenvío de solicitudes de Oracle → Adquisición de datos fuera de la cadena del servidor → Respuesta de Oracle → Proceso para que los usuarios obtengan resultados
